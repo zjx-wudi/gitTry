@@ -6,5 +6,6 @@ public class Main {
         System.out.println("some changes");
         System.out.println("ok");
         System.out.println("happy");
+        System.out.println("yammy");
     }
 }
